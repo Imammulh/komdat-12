@@ -75,6 +75,9 @@ install Git dan Node.js
 [`^ kembali ke atas ^`](#)
 
 1. siapkan direktori baru untuk project Hexo
+```
+$ mkdir "name folder"
+```
 2. buka direktori folder
 ```
 $ cd hexo_1
