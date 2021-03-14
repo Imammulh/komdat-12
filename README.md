@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/48622568/111066082-cf9aa200-84ef-11eb-971a-d1ceb510d9c7.png"></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/48622568/111066082-cf9aa200-84ef-11eb-971a-d1ceb510d9c7.png" width="400" height="400"></h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
