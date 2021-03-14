@@ -56,40 +56,42 @@ install Git dan Node.js
 ##### Install Node.js
 <img src="https://camo.githubusercontent.com/720ed473d178f9380291709d2223860ade4f3c7bc368e3fea1ad057b8dc9c6f5/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f6c6f676f2d6c696768742e737667" alt="node.js-logo" height="90" align="right" >
 
-1. Memperbarui package-package lokal
+1. install Node.js
     ``` 
-    $ sudo apt update
+    $ sudo apt-get install -y nodejs
     ```
 
-2. Install Node.js
+2. untuk mengecek versi 
     ```
-    $ sudo apt install nodejs
-    ```
-
-3. Mengecek versi untuk memastikan instalasi telah berhasil
-    ```
-    nodejs -v
+    $ node -v
     ```
 
-9. 9
-    ```
-    $ sudo service apache2 restart
-    ```
-
-10. 
-
-
-11. 
+3. 3
     ```
     ```
-
 
 
 ## Konfigurasi
 [`^ kembali ke atas ^`](#)
 
-- 
-
+1. siapkan direktori baru untuk project Hexo
+2. buka direktori folder
+```
+$ cd hexo_1
+```
+3. Install Hexo
+```
+$ npm install hexo
+``` 
+4. Buat sebuah blog tersebut
+```
+$ npx hexo init blog 
+```
+5. Setelah dibuat, masuk kedalam direktori tersebut
+```
+$ cd blog
+```
+-
 - 
 
 
