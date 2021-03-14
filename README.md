@@ -7,8 +7,14 @@
 
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
+**Hexo** adalah framework blog sederhana dan powerfull yang didukung oleh Node.js. Web statis generator yang super cepat ini hanya membutuhkan waktu beberapa detik untuk membangun sebuah website lengkap. 
 
-
+**Fitur**
+- Blazing fast generating
+- Support for GitHub Flavored Markdown and most Octopress plugins
+- One-command deploy to GitHub Pages, Heroku, etc.
+- Powerful API for limitless extensibility
+- Hundreds of themes & plugins
 
 
 # komdat-12
@@ -25,9 +31,7 @@ Anggota kelompok 12:
 [`^ kembali ke atas ^`](#)
 
 #### Kebutuhan Sistem :
-- Unix, Linux, Windows
-- Node.js (Minimal 10.13, direkomendasikan 12.0++
-- Git
+- Sistem Operasi Unix, Linux, Windows, atau Mac
 
 #### Proses Instalasi :
 1. 1
@@ -124,20 +128,23 @@ Cara pemakaian **CMS Hexo.io** ini sangat mudah, karena aplikasi ini telah menye
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
-
-tes **Hexo.io** ditulis dalam bahasa pemrograman dan kelebihan dari **Hexo.io** adalah:
-- 
-- 
-
-
-Tentu saja, sebuah aplikasi pasti memiliki kekurangan. Kekurangan yang dimiliki **Hexo.io** antara lain :
-- 
-- 
+Keunggulan **Hexo.io**
+- **Cepat**, Akses website cenderung lebih cepat karena framework ini mengkonversi file Markdown menjadi file html statis).
+- **Simple**, Framework ini cukup sederhana dari sisi konfigurasi, cukup gunakan 5 perintah cli (command line interface) blog sudah siap digunakan.
+- **Powerful**, Sangat powerful menurut saya, karena opensource sehingga tersedia banyak plugin & tema yang keren - keren.
 
 
-Jika dibandingkan dengan CMS sejenisnya seperti **Wordpress**, CMS ini memiliki beberapa keunggulan dan kelemahan. Berikut adalah beberapa perbandingan antara kedua CMS ini :
+Tentu saja, sebuah aplikasi memiliki beberapa kekurangan. Kekurangan yang dimiliki **Hexo.io** antara lain :
+
 - 
 - 
+
+
+Jika dibandingkan dengan CMS sejenisnya seperti **Blogger**, CMS ini memiliki beberapa keunggulan dan kelemahan. Berikut adalah beberapa perbandingan antara kedua CMS ini :
+
+- Template Blogger Susah dicustomisasi
+- Pada Blogger Custom Domain belum Support Https
+- Hexo sangat mudah untuk dicustom dan karena sifatnya statis, maka bisa saya taruh di Github Page sehingga untuk pengeluaraan budget blog saya ini hanya pada domain saja,
 
 
 
@@ -147,6 +154,6 @@ Jika dibandingkan dengan CMS sejenisnya seperti **Wordpress**, CMS ini memiliki 
 
 1. 
 2. 
-3. 
-4. 
+3. https://indrakusuma.web.id/2017/11/30/mengapa-saya-menggunakan-hexo-framework/
+4. https://raniaamina.id/membuat-blog-dengan-hexo/
 5. 
