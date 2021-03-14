@@ -56,42 +56,40 @@ install Git dan Node.js
 ##### Install Node.js
 <img src="https://camo.githubusercontent.com/720ed473d178f9380291709d2223860ade4f3c7bc368e3fea1ad057b8dc9c6f5/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f6c6f676f2d6c696768742e737667" alt="node.js-logo" height="90" align="right" >
 
-1. install Node.js
+1. Memperbarui package-package lokal
     ``` 
-    $ sudo apt-get install -y nodejs
+    $ sudo apt update
     ```
 
-2. untuk mengecek versi 
+2. Install Node.js
     ```
-    $ node -v
+    $ sudo apt install nodejs
     ```
 
-3. 3
+3. Mengecek versi untuk memastikan instalasi telah berhasil
+    ```
+    nodejs -v
+    ```
+
+9. 9
+    ```
+    $ sudo service apache2 restart
+    ```
+
+10. 
+
+
+11. 
     ```
     ```
+
 
 
 ## Konfigurasi
 [`^ kembali ke atas ^`](#)
 
-1. siapkan direktori baru untuk project Hexo
-2. buka direktori folder
-```
-$ cd hexo_1
-```
-3. Install Hexo
-```
-$ npm install hexo
-``` 
-4. Buat sebuah blog tersebut
-```
-$ npx hexo init blog 
-```
-5. Setelah dibuat, masuk kedalam direktori tersebut
-```
-$ cd blog
-```
--
+- 
+
 - 
 
 
@@ -131,23 +129,23 @@ Cara pemakaian **CMS Hexo.io** ini sangat mudah, karena aplikasi ini telah menye
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
+
 Keunggulan **Hexo.io**
 - **Cepat**, Akses website cenderung lebih cepat karena framework ini mengkonversi file Markdown menjadi file html statis).
 - **Simple**, Framework ini cukup sederhana dari sisi konfigurasi, cukup gunakan 5 perintah cli (command line interface) blog sudah siap digunakan.
-- **Powerful**, Sangat powerful menurut saya, karena opensource sehingga tersedia banyak plugin & tema yang keren - keren.
+- **Powerful**, Sangat powerful , karena opensource sehingga tersedia banyak plugin & tema yang keren - keren.
 
 
 Tentu saja, sebuah aplikasi memiliki beberapa kekurangan. Kekurangan yang dimiliki **Hexo.io** antara lain :
-
-- 
-- 
+- Menyediakan space penyimpanan yang kecil sehingga terdapat limitasi saat ingin mengupload file berukurang besar
+- Hexo tidak menggunakan database
 
 
 Jika dibandingkan dengan CMS sejenisnya seperti **Blogger**, CMS ini memiliki beberapa keunggulan dan kelemahan. Berikut adalah beberapa perbandingan antara kedua CMS ini :
 
 - Template Blogger Susah dicustomisasi
 - Pada Blogger Custom Domain belum Support Https
-- Hexo sangat mudah untuk dicustom dan karena sifatnya statis, maka bisa saya taruh di Github Page sehingga untuk pengeluaraan budget blog saya ini hanya pada domain saja,
+- Hexo sangat mudah untuk dicustom dan karena sifatnya statis, maka bisa ditaruh di Github Page sehingga dapat mengurangin budget pengeluaran
 
 
 
