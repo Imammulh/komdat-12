@@ -1,4 +1,14 @@
-<img src="https://user-images.githubusercontent.com/48622568/111066082-cf9aa200-84ef-11eb-971a-d1ceb510d9c7.png" width="200" height="200">
+# komdat-12
+Repository Github Kelompok 12 KOM 312-Komunikasi Data dan Jaringan
+Anggota kelompok 12:
+- Fawwaz Khairi         (G64180042)
+- Imam Mulhaq Rosyadi   (G64180047)
+- Muhamad Khoiru Tobi A (G64180065)
+- Ahmad Tedy Murtadho   (G64180082)
+
+# Aplikasi Web "Hexo"
+
+<img src="https://raw.githubusercontent.com/hexojs/logo/master/hexo-logo-avatar.png" alt="hexo-logo" width="100" height="100" align="right"/>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
@@ -15,17 +25,6 @@
 - One-command deploy to GitHub Pages, Heroku, etc.
 - Powerful API for limitless extensibility
 - Hundreds of themes & plugins
-
-
-# komdat-12
-Repository Github Kelompok 12 KOM 312-Komunikasi Data dan Jaringan
-Anggota kelompok 12:
-- Fawwaz Khairi         (G64180042)
-- Imam Mulhaq Rosyadi   (G64180047)
-- Muhamad Khoiru Tobi A (G64180065)
-- Ahmad Tedy Murtadho   (G64180082)
-
-
 
 # Instalasi
 [`^ kembali ke atas ^`](#)
