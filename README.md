@@ -58,37 +58,32 @@ install Git dan Node.js
 
 1. install Node.js
     ``` 
-    $ sudo apt Apaan tadi WKWK
+    $ sudo apt-get install -y nodejs
     ```
 
 2. untuk mengecek versi 
     ```
-    $ sudo...
+    $ node -v
     ```
 
 3. 3
     ```
     ```
 
-9. 9
-    ```
-    $ sudo service apache2 restart
-    ```
-
-10. 
-
-
-11. 
-    ```
-    ```
-
-
 
 ## Konfigurasi
 [`^ kembali ke atas ^`](#)
 
-- 
+1. siapkan direktori baru untuk project Hexo
+2. buka direktori folder
+```
+$ cd hexo_1
+```
+3. Install Hexo
+```
 
+``` 
+-
 - 
 
 
