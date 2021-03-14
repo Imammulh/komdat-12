@@ -1,4 +1,4 @@
-# komdat-12
+## komdat-12
 Repository Github Kelompok 12 KOM 312-Komunikasi Data dan Jaringan
 Anggota kelompok 12:
 - Fawwaz Khairi         (G64180042)
@@ -15,7 +15,7 @@ Anggota kelompok 12:
 
 
 
-# Sekilas Tentang
+## Sekilas Tentang
 [`^ kembali ke atas ^`](#)
 **Hexo** adalah framework blog sederhana dan powerfull yang didukung oleh Node.js. Web statis generator yang super cepat ini hanya membutuhkan waktu beberapa detik untuk membangun sebuah website lengkap. 
 
@@ -26,15 +26,21 @@ Anggota kelompok 12:
 - Powerful API for limitless extensibility
 - Hundreds of themes & plugins
 
-# Instalasi
+## Instalasi
 [`^ kembali ke atas ^`](#)
 
 #### Kebutuhan Sistem :
 - Sistem Operasi Unix, Linux, Windows, atau Mac
+- [Git](http://git-scm.com/)
+- [Node.js](http://nodejs.org/) (recommend latest version)
 
-#### Proses Instalasi :
-1. 1
+#### Proses Instalasi (Ubuntu) :
+install Git dan Node.js 
+##### Install Git
+<img src="https://git-scm.com/images/logo@2x.png" alt="hexo-logo" height="100" />
+1. install Git versi terbaru
     ```
+    $ sudo apt install git
     ```
 
 2. 2
@@ -83,7 +89,7 @@ Anggota kelompok 12:
 
 
 
-# Konfigurasi
+## Konfigurasi
 [`^ kembali ke atas ^`](#)
 
 - 
@@ -92,7 +98,7 @@ Anggota kelompok 12:
 
 
 
-# Maintenance
+## Maintenance
 [`^ kembali ke atas ^`](#)
 
 Berikut ini adalah langkah-langkah yang harus kita lakukan :
@@ -106,7 +112,7 @@ Berikut ini adalah langkah-langkah yang harus kita lakukan :
 
 
 
-# Otomatisasi
+## Otomatisasi
 [`^ kembali ke atas ^`](#)
 
 Jika kalian masih merasa kesulitan dalam meng-install **Hexo.io**, terdapat dua cara alternatif yang lebih mudah. 
