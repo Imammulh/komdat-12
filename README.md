@@ -25,38 +25,18 @@ Anggota kelompok 12:
 [`^ kembali ke atas ^`](#)
 
 #### Kebutuhan Sistem :
-- 
+- Unix, Linux, Windows
+- Node.js (Minimal 10.13, direkomendasikan 12.0++
+- Git
 
 #### Proses Instalasi :
-1. 1 Node Js
-Buka terminal terlebih dahulu.
+1. 1
+    ```
+    ```
 
-Update lokal
-```
-$sudo apt update
-```
-
-Install Node Js
-```
-$sudo apt install nodejs
-```
-
-Mengecek apakah Node Js telah terinstall
-```
-$nodejs -v
-```
-
-2. 2 NPM (Node Package Manager)
-
-Install NPM
-```
-$sudo apt install npm
-```
-
-Mengecek apakah NPM telah terinstall
-```
-$npm -v
-```
+2. 2
+    ```
+    ```
 
 3. 3
     ```
