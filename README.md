@@ -37,43 +37,37 @@ Anggota kelompok 12:
 #### Proses Instalasi (Ubuntu) :
 install Git dan Node.js 
 ##### Install Git
-<img src="https://git-scm.com/images/logo@2x.png" alt="hexo-logo" height="90" align="right" >
+<img src="https://git-scm.com/images/logo@2x.png" alt="git-logo" height="90" align="right" >
 
 1. install Git versi terbaru
     ``` 
     $ sudo apt install git
     ```
 
-2. 2
+2. untuk mengecek versi git
     ```
+    $ git --version
     ```
 
 3. 3
     ```
     ```
 
-4. 4
-    ```
+##### Install Node.js
+<img src="https://camo.githubusercontent.com/720ed473d178f9380291709d2223860ade4f3c7bc368e3fea1ad057b8dc9c6f5/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f6c6f676f2d6c696768742e737667" alt="node.js-logo" height="90" align="right" >
+
+1. install Node.js
+    ``` 
+    $ sudo apt Apaan tadi WKWK
     ```
 
-5. 5
+2. untuk mengecek versi 
+    ```
+    $ sudo...
     ```
 
+3. 3
     ```
-
-6. 6
-    ```
-
-    ```
-
-7. 7
-    ```
-
-    ```
-
-8. 8
-    ```
-
     ```
 
 9. 9
