@@ -8,7 +8,7 @@ Anggota kelompok 12:
 
 # Aplikasi Web "Hexo"
 
-<img src="https://raw.githubusercontent.com/hexojs/logo/master/hexo-logo-avatar.png" alt="hexo-logo" width="100" height="100" align="right"/>
+<img src="https://raw.githubusercontent.com/hexojs/logo/master/hexo-logo-avatar.png" alt="hexo-logo" height="120" align="right">
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
@@ -37,9 +37,10 @@ Anggota kelompok 12:
 #### Proses Instalasi (Ubuntu) :
 install Git dan Node.js 
 ##### Install Git
-<img src="https://git-scm.com/images/logo@2x.png" alt="hexo-logo" height="100" />
+<img src="https://git-scm.com/images/logo@2x.png" alt="hexo-logo" height="90" align="right" >
+
 1. install Git versi terbaru
-    ```
+    ``` 
     $ sudo apt install git
     ```
 
