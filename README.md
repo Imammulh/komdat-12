@@ -123,7 +123,7 @@ Cara pemakaian **CMS Hexo.io** ini sangat mudah, karena aplikasi ini telah menye
 # Pembahasan
 [`^ kembali ke atas ^`](#)
 
-**Hexo.io** ditulis dalam bahasa pemrograman dan kelebihan dari **Hexo.io** adalah:
+tes **Hexo.io** ditulis dalam bahasa pemrograman dan kelebihan dari **Hexo.io** adalah:
 - 
 - 
 
