@@ -6,7 +6,7 @@ Anggota kelompok 12:
 - Muhamad Khoiru Tobi A (G64180065)
 - Ahmad Tedy Murtadho   (G64180082)
 
-<img src="https://lh3.googleusercontent.com/pw/ACtC-3flKG42xMQ8-CIo_0kd2vNdq3oUA6yfS0F-Lm2FueO9du7u0Ydz2W4Q1l4Aky4C0dzLGbVKTTO3Zeybz_MSy-IjiTPeDA2YQZWlLZ8zDmBS0aAJP0rUtMpeAYXmZFpE3ovV7SAdCobtUgd0kOzl1cs1=w450-h253-no?authuser=1" alt="demo-gif">
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3flKG42xMQ8-CIo_0kd2vNdq3oUA6yfS0F-Lm2FueO9du7u0Ydz2W4Q1l4Aky4C0dzLGbVKTTO3Zeybz_MSy-IjiTPeDA2YQZWlLZ8zDmBS0aAJP0rUtMpeAYXmZFpE3ovV7SAdCobtUgd0kOzl1cs1=w450-h253-no?authuser=1" alt="demo-gif" height="500" >
 
 # Aplikasi Web "Hexo"
 
