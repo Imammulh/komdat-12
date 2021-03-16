@@ -68,10 +68,15 @@ install Git dan Node.js
     $ node -v
     ```
 
-3. 3
+3. install npm
     ```
+    $ sudo apt-get install npm
     ```
-
+ 
+4. untuk mengecek versi
+   ```
+    $ npm -v
+    ```
 
 ## Konfigurasi
 [`^ kembali ke atas ^`](#)
