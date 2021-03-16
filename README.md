@@ -36,6 +36,9 @@ Anggota kelompok 12:
 - [Node.js](http://nodejs.org/) (recommend latest version)
 
 #### Proses Instalasi (Ubuntu) :
+
+Sebelum menginstall hexo pertama - tama akan dilakukan instalasi ubuntu di virtual box dengan konfigurasi pada tab network seperti berikut :
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3fADjoPlFzDtAmI62QDfMycKfFQJBqfIsuxXyRnss9zWLDAhg4Dl0SsbVVpSD_P_gGZhLChXzmbHlyFDX726hmbf2fT5sjBZMaf_6RHYN2wzLttygpsAE2Yla-VOdIGvSPukP_z4JT5UGZve8pjN2iR=w1188-h667-no?authuser=0" alt="port-logo" height="500"">
 install Git dan Node.js 
 ##### Install Git
 <img src="https://git-scm.com/images/logo@2x.png" alt="git-logo" height="90" align="right" >
