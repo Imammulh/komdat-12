@@ -152,16 +152,15 @@ Keunggulan **Hexo.io**
 
 
 Tentu saja, sebuah aplikasi memiliki beberapa kekurangan. Kekurangan yang dimiliki **Hexo.io** antara lain :
-
-- 
-- 
+- Menyediakan space penyimpanan yang kecil sehingga terdapat limitasi saat ingin mengupload file berukurang besar
+- Hexo tidak menggunakan database
 
 
 Jika dibandingkan dengan CMS sejenisnya seperti **Blogger**, CMS ini memiliki beberapa keunggulan dan kelemahan. Berikut adalah beberapa perbandingan antara kedua CMS ini :
 
 - Template Blogger Susah dicustomisasi
 - Pada Blogger Custom Domain belum Support Https
-- Hexo sangat mudah untuk dicustom dan karena sifatnya statis, maka bisa saya taruh di Github Page sehingga untuk pengeluaraan budget blog saya ini hanya pada domain saja,
+- Hexo sangat mudah untuk dicustom dan karena sifatnya statis, maka bisa ditaruh di Github Page sehingga untuk pengeluaraan budget blog hanya pada domain saja
 
 
 
