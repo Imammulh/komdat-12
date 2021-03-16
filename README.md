@@ -17,6 +17,7 @@ Anggota kelompok 12:
 
 ## Sekilas Tentang
 [`^ kembali ke atas ^`](#)
+
 **Hexo** adalah framework blog sederhana dan powerfull yang didukung oleh Node.js. Web statis generator yang super cepat ini hanya membutuhkan waktu beberapa detik untuk membangun sebuah website lengkap. 
 
 **Fitur**
