@@ -148,7 +148,7 @@ Cara pemakaian **CMS Hexo.io** ini sangat mudah, karena aplikasi ini telah menye
 Keunggulan **Hexo.io**
 - **Cepat**, Akses website cenderung lebih cepat karena framework ini mengkonversi file Markdown menjadi file html statis).
 - **Simple**, Framework ini cukup sederhana dari sisi konfigurasi, cukup gunakan 5 perintah cli (command line interface) blog sudah siap digunakan.
-- **Powerful**, Sangat powerful menurut saya, karena opensource sehingga tersedia banyak plugin & tema yang keren - keren.
+- **Powerful**, Sangat powerful , karena opensource sehingga tersedia banyak plugin & tema yang keren - keren.
 
 
 Tentu saja, sebuah aplikasi memiliki beberapa kekurangan. Kekurangan yang dimiliki **Hexo.io** antara lain :
