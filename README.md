@@ -37,12 +37,9 @@ Anggota kelompok 12:
 
 #### Proses Instalasi (Ubuntu) :
 
-Sebelum menginstall hexo pertama - tama akan dilakukan instalasi ubuntu di virtual box dengan konfigurasi pada tab network seperti berikut :
+Install VM (Virtual Machine) dan Ubuntu:
 
-<img src="https://lh3.googleusercontent.com/pw/ACtC-3fADjoPlFzDtAmI62QDfMycKfFQJBqfIsuxXyRnss9zWLDAhg4Dl0SsbVVpSD_P_gGZhLChXzmbHlyFDX726hmbf2fT5sjBZMaf_6RHYN2wzLttygpsAE2Yla-VOdIGvSPukP_z4JT5UGZve8pjN2iR=w1131-h635-no?authuser=0" alt="port-logo" height="500">
-
-Install VM (Virtual Machine) dan Ubuntu
-1. Download VM pada link berikut https://www.virtualbox.org/wiki/Downloads (Kami menggunakan Virtualbox)
+1. Download VM pada link berikut https://www.virtualbox.org/wiki/Downloads (Kami menggunakan Oracle Virtualbox)
 2. Download Ubuntu pada link berikut https://ubuntu.com/download/desktop
 3. Selesaikan instalasi VM yang telah didownload
 4. Buka Virtualbox yang telah diinstall, klik tombol "New" untuk membuat VM baru. Tentukan nama VM yang akan dibuat sesuai dengan keinginan dan pilih tipe operasi sistem beserta    versinya yang akan diinstal pada VM. Lalu, klik tombol "Next"
@@ -79,7 +76,14 @@ Install VM (Virtual Machine) dan Ubuntu
 13. Terakhir, klik pada VM yang sudah dibuat dan klik tombol "Start" untuk menjalankan VM dan melanjutkan instalasi Ubuntu
 
 
-install Git dan Node.js 
+Setup VM (Konfigurasi SSH dan port-forwarding):
+
+Sebelum menginstall hexo pertama - tama akan dilakukan instalasi ubuntu di virtual box dengan konfigurasi pada tab network seperti berikut :
+
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3fADjoPlFzDtAmI62QDfMycKfFQJBqfIsuxXyRnss9zWLDAhg4Dl0SsbVVpSD_P_gGZhLChXzmbHlyFDX726hmbf2fT5sjBZMaf_6RHYN2wzLttygpsAE2Yla-VOdIGvSPukP_z4JT5UGZve8pjN2iR=w1131-h635-no?authuser=0" alt="port-logo" height="500">
+
+install Git dan Node.js:
+
 ##### Install Git
 <img src="https://git-scm.com/images/logo@2x.png" alt="git-logo" height="90" align="right" >
 
