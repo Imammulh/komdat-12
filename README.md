@@ -39,7 +39,7 @@ Anggota kelompok 12:
 
 Sebelum menginstall hexo pertama - tama akan dilakukan instalasi ubuntu di virtual box dengan konfigurasi pada tab network seperti berikut :
 
-<img src="https://lh3.googleusercontent.com/pw/ACtC-3fADjoPlFzDtAmI62QDfMycKfFQJBqfIsuxXyRnss9zWLDAhg4Dl0SsbVVpSD_P_gGZhLChXzmbHlyFDX726hmbf2fT5sjBZMaf_6RHYN2wzLttygpsAE2Yla-VOdIGvSPukP_z4JT5UGZve8pjN2iR=w1188-h667-no?authuser=0" alt="port-logo" height="500"">
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3fADjoPlFzDtAmI62QDfMycKfFQJBqfIsuxXyRnss9zWLDAhg4Dl0SsbVVpSD_P_gGZhLChXzmbHlyFDX726hmbf2fT5sjBZMaf_6RHYN2wzLttygpsAE2Yla-VOdIGvSPukP_z4JT5UGZve8pjN2iR=w1131-h635-no?authuser=0" alt="port-logo" height="500"">
 
 Install VM (Virtual Machine)
 1. Download VM pada link berikut https://www.virtualbox.org/wiki/Downloads (Kami menggunakan Virtualbox)
