@@ -44,7 +44,30 @@ Sebelum menginstall hexo pertama - tama akan dilakukan instalasi ubuntu di virtu
 Install VM (Virtual Machine)
 1. Download VM pada link berikut https://www.virtualbox.org/wiki/Downloads (Kami menggunakan Virtualbox)
 2. Selesaikan instalasi VM yang telah didownload
-3. 
+3. Buka Virtualbox yang telah diinstall, klik tombol "New" untuk membuat VM baru. Tentukan nama VM yang akan dibuat sesuai dengan keinginan dan pilih tipe operasi sistem beserta    versinya yang akan diinstal pada VM. Lalu, klik tombol "Next"
+
+   <img src="https://brb.nci.nih.gov/seqtools/images/ubuntu/image005.png" alt="new VM" height="500">
+4. Tentukan ukuran memori yang akan dialokasikan untuk VM yang akan dibuat (Sesuaikan dengan kapasitas RAM yang terdapat pada komputer). Lalu, klik tombol "Next"
+
+   <img src="https://brb.nci.nih.gov/seqtools/images/ubuntu/image007.png" alt="RAM" height="500">
+5. Pilih 'Create a virtual hard drive now' dan klik tombol "Create"
+   
+   <img src="https://brb.nci.nih.gov/seqtools/images/ubuntu/createVM.png" alt="Virtual Hard Drive" height="500"> 
+6. Tentukan tipe Hard Drive File. Pilih saja VDI sesuai dengan defaultnya. Lalu, klik tombol "Next"
+
+   <img src="https://brb.nci.nih.gov/seqtools/images/ubuntu/image009.png" alt="new VM" height="500"> 
+7. Pada tipe storage pilih "Fixed size" untuk meningkatkan performa VM. Lalu, klik tombol "Next"
+
+   <img src="https://brb.nci.nih.gov/seqtools/images/ubuntu/image010.png" alt="Storage" height="500"> 
+8. Tentukan lokasi file VM yang akan diinstal dan ukuran storage yang akan dialokasikan untuk VM. Lalu, klik tombol "Create"
+
+   <img src="https://brb.nci.nih.gov/seqtools/images/ubuntu/image011.png" alt="Location & Size" height="500"> 
+ 
+9. Tunggu proses pembuatan VM selesai
+
+  <img src="https://brb.nci.nih.gov/seqtools/images/ubuntu/image012.png" alt="Selesai" height="500">
+
+
 
 install Git dan Node.js 
 ##### Install Git
@@ -146,7 +169,7 @@ Jika dibandingkan dengan CMS sejenisnya seperti **Blogger**, CMS ini memiliki be
 [`^ kembali ke atas ^`](#)
 
 1. https://hexo.io/docs/
-2. 
+2. https://brb.nci.nih.gov/seqtools/installUbuntu.html
 3. https://indrakusuma.web.id/2017/11/30/mengapa-saya-menggunakan-hexo-framework/
 4. https://raniaamina.id/membuat-blog-dengan-hexo/
 5. 
