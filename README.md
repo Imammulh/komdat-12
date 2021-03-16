@@ -12,7 +12,7 @@ Anggota kelompok 12:
 
 <img src="https://raw.githubusercontent.com/hexojs/logo/master/hexo-logo-avatar.png" alt="hexo-logo" height="120" align="right">
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 
@@ -49,10 +49,6 @@ install Git dan Node.js
 2. untuk mengecek versi git
     ```
     $ git --version
-    ```
-
-3. 3
-    ```
     ```
 
 ##### Install Node.js
@@ -105,34 +101,6 @@ $ cd blog
 ```
 $ npm install
 ```
--
-- 
-
-
-
-## Maintenance
-[`^ kembali ke atas ^`](#)
-
-Berikut ini adalah langkah-langkah yang harus kita lakukan :
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-
-
-
-## Otomatisasi
-[`^ kembali ke atas ^`](#)
-
-Jika kalian masih merasa kesulitan dalam meng-install **Hexo.io**, terdapat dua cara alternatif yang lebih mudah. 
-
-Cara kedua adalah dengan menggunakan layanan yang tersedia pada *web-hosting provider*. Dengan layanan tersebut kita hanya perlu satu kali klik untuk meng-install **Hexo.io**. Berikut langkah-lankah untuk melakukannya :
-1. 
-2. 
-
 
 
 # Cara Pemakaian
