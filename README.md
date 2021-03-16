@@ -70,7 +70,7 @@ install Git dan Node.js
 
 3. install npm
     ```
-    $ sudo apt-get install npm
+    $ sudo apt install npm
     ```
  
 4. untuk mengecek versi
