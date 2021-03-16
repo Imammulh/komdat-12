@@ -37,7 +37,7 @@ Anggota kelompok 12:
 
 #### Proses Instalasi (Ubuntu) :
 
-Install VM (Virtual Machine) dan Ubuntu:
+Install VM (Virtual Machine) dan Ubuntu :
 
 1. Download VM pada link berikut https://www.virtualbox.org/wiki/Downloads (Kami menggunakan Oracle Virtualbox)
 2. Download Ubuntu pada link berikut https://ubuntu.com/download/desktop
@@ -78,7 +78,7 @@ Install VM (Virtual Machine) dan Ubuntu:
 
 
 
-Setup VM (Konfigurasi SSH dan port-forwarding):
+Setup VM (Konfigurasi SSH dan port-forwarding) :
 
 Sebelum menginstall hexo pertama - tama akan dilakukan instalasi ubuntu di virtual box dengan konfigurasi pada tab network seperti berikut :
 
@@ -87,7 +87,7 @@ Sebelum menginstall hexo pertama - tama akan dilakukan instalasi ubuntu di virtu
 
 
 
-install Git dan Node.js:
+install Git dan Node.js :
 
 ##### Install Git
 <img src="https://git-scm.com/images/logo@2x.png" alt="git-logo" height="90" align="right" >
