@@ -41,10 +41,11 @@ Sebelum menginstall hexo pertama - tama akan dilakukan instalasi ubuntu di virtu
 
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3fADjoPlFzDtAmI62QDfMycKfFQJBqfIsuxXyRnss9zWLDAhg4Dl0SsbVVpSD_P_gGZhLChXzmbHlyFDX726hmbf2fT5sjBZMaf_6RHYN2wzLttygpsAE2Yla-VOdIGvSPukP_z4JT5UGZve8pjN2iR=w1131-h635-no?authuser=0" alt="port-logo" height="500">
 
-Install VM (Virtual Machine)
+Install VM (Virtual Machine) dan Ubuntu
 1. Download VM pada link berikut https://www.virtualbox.org/wiki/Downloads (Kami menggunakan Virtualbox)
-2. Selesaikan instalasi VM yang telah didownload
-3. Buka Virtualbox yang telah diinstall, klik tombol "New" untuk membuat VM baru. Tentukan nama VM yang akan dibuat sesuai dengan keinginan dan pilih tipe operasi sistem beserta    versinya yang akan diinstal pada VM. Lalu, klik tombol "Next"
+2. Download Ubuntu pada link berikut https://ubuntu.com/download/desktop
+3. Selesaikan instalasi VM yang telah didownload
+4. Buka Virtualbox yang telah diinstall, klik tombol "New" untuk membuat VM baru. Tentukan nama VM yang akan dibuat sesuai dengan keinginan dan pilih tipe operasi sistem beserta    versinya yang akan diinstal pada VM. Lalu, klik tombol "Next"
 
    <img src="https://brb.nci.nih.gov/seqtools/images/ubuntu/image005.png" alt="new VM">
 4. Tentukan ukuran memori yang akan dialokasikan untuk VM yang akan dibuat (Sesuaikan dengan kapasitas RAM yang terdapat pada komputer). Lalu, klik tombol "Next"
@@ -66,6 +67,16 @@ Install VM (Virtual Machine)
 9. Tunggu proses pembuatan VM selesai
 
    <img src="https://brb.nci.nih.gov/seqtools/images/ubuntu/image012.png" alt="Selesai">
+10. Setelah VM berhasil dibuat selanjutnya adalah menginstall Ubuntu. Pilih VM yang sudah dibuat. Klik tombol "Settings". Lalu, klik tombol "Storage' dan kemudian "Empty" di   bawah "Controller:IDE". Klik kanan pada ikon "CD/DVD"
+
+    <img src="https://brb.nci.nih.gov/seqtools/images/ubuntu/image013.png" alt="Mount">
+11. Pilih file ISO Ubuntu untuk di-mount
+
+    <img src="https://brb.nci.nih.gov/seqtools/images/ubuntu/image015.png" alt="Mount 2" >
+12. Klik tombol "Ok"
+
+    <img src="https://brb.nci.nih.gov/seqtools/images/ubuntu/image017.png" alt="Mount 3">
+13. Terakhir, klik pada VM yang sudah dibuat dan klik tombol "Start" untuk menjalankan VM dan melanjutkan instalasi Ubuntu
 
 
 install Git dan Node.js 
