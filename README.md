@@ -159,16 +159,27 @@ $ npm install
 ```
 7. kemudian jalankan server Hexo
 ```
-npx hexo server
+$ npx hexo server
 ```
 
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
 
-Cara pemakaian **CMS Hexo.io** ini sangat mudah, karena aplikasi ini telah menyediakan *interface* yang mudah dimengerti. Berikut untuk lebih jelasnya :
-1. 
-2. 
+Cara pemakaian **CMS Hexo.io** ini sangat mudah, tapi masih perlu menggunakan terminal untuk membuat halaman blog baru:
+1. Membuat blog baru
+```
+$ hexo new "<nama blogmu>"
+```
+2. Kamu bisa langsung mengedit halaman blog dengan membuka file markdown yang telah dibuat, atau dengan mengedit langsung melalui terminal dengan:
+```
+$ nano <nama-blog-mu>.md
+```
+3. Jika kamu membuka melalui file markdownnya kamu hanya perlu menyimpan ulang file tersebut, tetapi jika kamu mengedit melalui terminal kamu perlu mendeploynya terlebih dahulu:
+```
+$ hexo deploy
+```
+4. Maka halaman blog baru akan muncul
 
 
 # Pembahasan
