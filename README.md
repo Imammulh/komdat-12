@@ -166,7 +166,7 @@ $ npx hexo server
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
 
-Cara pemakaian **CMS Hexo.io** ini sangat mudah, tapi masih perlu menggunakan terminal untuk membuat halaman blog baru:
+Cara pemakaian **CMS Hexo.io** ini sangat mudah, kamu hanya perlu membuka terminal untuk membuat halaman blog baru:
 1. Membuat blog baru
 ```
 $ hexo new "<nama blogmu>"
