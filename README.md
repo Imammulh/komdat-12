@@ -78,7 +78,7 @@ Install VM (Virtual Machine) dan Ubuntu :
 
 
 
-Setup VM (Konfigurasi SSH dan port-forwarding) :
+### Setup VM (Konfigurasi SSH dan port-forwarding) :
 
 Sebelum menginstall hexo pertama - tama akan dilakukan instalasi ubuntu di virtual box dengan konfigurasi pada tab network seperti berikut :
 
