@@ -157,6 +157,10 @@ $ cd blog
 ```
 $ npm install
 ```
+7. kemudian jalankan server Hexo
+```
+npx hexo server
+```
 
 
 # Cara Pemakaian
