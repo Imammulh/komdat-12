@@ -84,8 +84,13 @@ Sebelum menginstall hexo pertama - tama akan dilakukan instalasi ubuntu di virtu
 
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3fADjoPlFzDtAmI62QDfMycKfFQJBqfIsuxXyRnss9zWLDAhg4Dl0SsbVVpSD_P_gGZhLChXzmbHlyFDX726hmbf2fT5sjBZMaf_6RHYN2wzLttygpsAE2Yla-VOdIGvSPukP_z4JT5UGZve8pjN2iR=w1131-h635-no?authuser=0" alt="port-logo" height="500">
 
+##### Login ke server dengan ssh
+```
+ssh username@localhost -p -2200
+```
+jika berhasil login, tampilan akan menjadi seperti berikut:
 
-
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3dAkzMJkRrvi_F9ykl-1G4p-sq7rYPlUkb8EkMdQng4XDktSQBisUlIIliPJZqE8LW04veRwUAWpb8PvlCkPXuWJAgwMQDyw5-TXQhlFdook4GJ7o7sExAUPKFSkV8VJ3Ps25gnXo0pQsU-cwhUTtp7=w1181-h667-no?authuser=1" alt="port-logo" height="500">
 
 install Git dan Node.js :
 
